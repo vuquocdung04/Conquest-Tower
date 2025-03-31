@@ -1,0 +1,1249 @@
+fileFormatVersion: 2
+guid: 02ba3563b5d6cad43963df1cda328b04
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 250
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba1f8d1b3fe7e84f805c3d73fc7fc1a
+      internalID: 1822178715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 193
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d30e9093c3d284ba3b2583090cb90a
+      internalID: 1033107062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 193
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f92ef212d41d144f96ae35739cf7af3
+      internalID: -2139973353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_3
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 178
+        width: 135
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2390991eea657cd46b91ee0462796dc1
+      internalID: -1689729316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 178
+        width: 135
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d10edde3bee2242a82a1588052b134
+      internalID: 902062134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_5
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 178
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca2cbd9f1f0b204497e73afe2dcf3ba
+      internalID: -595263028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_6
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 178
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f058c7b2d3d544bb15b4ee2e830551
+      internalID: -60136065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_7
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 178
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da0935f23861f54e948b8bd9e1d16bf
+      internalID: 1622518072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_8
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 178
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5aa2780ae12be44a9c5effba4fc5a4d
+      internalID: -1054415431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_9
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 178
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e91ce8be4d52a40afcbddf85c2486f
+      internalID: -951186411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_10
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 177
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67974f3432363cd4db30e9ba06821bb3
+      internalID: -937171116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_11
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 171
+        width: 103
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def9687a4ae095e4f92395876b25ea46
+      internalID: 1874718440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_12
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 168
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6e8657850c1a84ab5df2d9972f7768
+      internalID: 322351696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_13
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 209
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8efc2a369841ce4584256a3af0ae9ce
+      internalID: 845064823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 106
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba06e94da0a77949b42a26dd25b9c82
+      internalID: 2093931632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2
+        width: 94
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb25523b125e8b4a98fdeca9dcc5a42
+      internalID: 1614569293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_16
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2
+        width: 98
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8280bc08643fa42ada72b0e54d095a
+      internalID: -822607253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2
+        width: 57
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c356dfa7db1474a87dc1e2b4933ef8
+      internalID: -1342565435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_18
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 145
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d81cdbe71ffa2649b344f5205d5a399
+      internalID: -1009801686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 145
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0e420c395dced49b139a8b4cffb83e
+      internalID: 610121639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_20
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 145
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab997fc4f722a24b8546d23e7e04b5c
+      internalID: 624867912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_21
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 139
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e63e87b7ea3d1479be4b074cd818c4
+      internalID: -879716797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_22
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 139
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9d4d995c50395469aa91b36e1fae1e
+      internalID: 1269121704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_23
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 114
+        width: 103
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bdc79b5f38f034bb0416670bc5e261
+      internalID: 1404724125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_24
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 109
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da85270e36fb1842a58a4855ddb66ef
+      internalID: -1278572926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_25
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 109
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee5789a9f62a5c4e890360ef495d284
+      internalID: 1882087583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_26
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 109
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43f1b4a11cdd9645ab2626591070b61
+      internalID: -1186655974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_27
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 109
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89bc7fc61c2fa847bab7436e9f92256
+      internalID: -386483147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_28
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 108
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c149156b7d7e142b58260a6d6a93ab
+      internalID: 594551148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_29
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 107
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bdb965f5e00044d9bc74da0d4c93d4
+      internalID: 505938637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_30
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 107
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddbad6d83698044fa70c470f0db57a5
+      internalID: -1256136262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_31
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 98
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1746e0fc3e9a254dbd09ac434825893
+      internalID: 177945393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_32
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 155
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c7c76271b1b404f9b8fde498b1d886
+      internalID: 2054224576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_33
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 2
+        width: 57
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae01b51a1621a947b9e35ca8027cdcb
+      internalID: -1838413716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_34
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2
+        width: 56
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76951ec197c8884469238ef946616e86
+      internalID: -763505224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_35
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2
+        width: 88
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba49533c6b7d7d04f97c6166388fca7a
+      internalID: 1495028369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_36
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 2
+        width: 94
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f670182594b199b4d88e122ecaec7470
+      internalID: -616152049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_37
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 2
+        width: 35
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79a9f9fe536e714b8c860d4cedd5ea6
+      internalID: -1989813529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_38
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a63689bca8045044b8432694d551097
+      internalID: 2141066728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_39
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 107
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d0c60ca1c223b4a9dabd11757581c1
+      internalID: -344946904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_40
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2337dbf87dd19e499d4ce495ca2f99b
+      internalID: -534082740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_41
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2
+        width: 58
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e92f28a8b888a42a9ae03184b3c759
+      internalID: 1795484966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_42
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 2
+        width: 48
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f655d81beec146d4fbb5442da4f5d3e3
+      internalID: 1516444948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_43
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 2
+        width: 36
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7e02835bd169442b16a1d11e196f2c
+      internalID: -464270974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_44
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 2
+        width: 97
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b12b949449b724b803eabc0034eaa4
+      internalID: 186285992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_45
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 2
+        width: 40
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cde39756654ee642a11235df041d863
+      internalID: -1616505525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_46
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 40
+        width: 20
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109c671c4ddc8954c9561cb147de1462
+      internalID: -1279540175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_47
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 58
+        width: 58
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f617c5ee486fb7b4994a1dcbe5ce35e4
+      internalID: 239138980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_48
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 58
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadb2bae05af63f428b75ba0ddf87f61
+      internalID: -1789980980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_49
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 2
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7910eefde51c0bb41a0b925d28583ed3
+      internalID: 1830530066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_Md_BlackKnight_50
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df513a755e6eeb4887b2795d066ccc3
+      internalID: 2046158144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Medieval_Md_BlackKnight_0: 1822178715
+      Medieval_Md_BlackKnight_1: 1033107062
+      Medieval_Md_BlackKnight_10: -937171116
+      Medieval_Md_BlackKnight_11: 1874718440
+      Medieval_Md_BlackKnight_12: 322351696
+      Medieval_Md_BlackKnight_13: 845064823
+      Medieval_Md_BlackKnight_14: 2093931632
+      Medieval_Md_BlackKnight_15: 1614569293
+      Medieval_Md_BlackKnight_16: -822607253
+      Medieval_Md_BlackKnight_17: -1342565435
+      Medieval_Md_BlackKnight_18: -1009801686
+      Medieval_Md_BlackKnight_19: 610121639
+      Medieval_Md_BlackKnight_2: -2139973353
+      Medieval_Md_BlackKnight_20: 624867912
+      Medieval_Md_BlackKnight_21: -879716797
+      Medieval_Md_BlackKnight_22: 1269121704
+      Medieval_Md_BlackKnight_23: 1404724125
+      Medieval_Md_BlackKnight_24: -1278572926
+      Medieval_Md_BlackKnight_25: 1882087583
+      Medieval_Md_BlackKnight_26: -1186655974
+      Medieval_Md_BlackKnight_27: -386483147
+      Medieval_Md_BlackKnight_28: 594551148
+      Medieval_Md_BlackKnight_29: 505938637
+      Medieval_Md_BlackKnight_3: -1689729316
+      Medieval_Md_BlackKnight_30: -1256136262
+      Medieval_Md_BlackKnight_31: 177945393
+      Medieval_Md_BlackKnight_32: 2054224576
+      Medieval_Md_BlackKnight_33: -1838413716
+      Medieval_Md_BlackKnight_34: -763505224
+      Medieval_Md_BlackKnight_35: 1495028369
+      Medieval_Md_BlackKnight_36: -616152049
+      Medieval_Md_BlackKnight_37: -1989813529
+      Medieval_Md_BlackKnight_38: 2141066728
+      Medieval_Md_BlackKnight_39: -344946904
+      Medieval_Md_BlackKnight_4: 902062134
+      Medieval_Md_BlackKnight_40: -534082740
+      Medieval_Md_BlackKnight_41: 1795484966
+      Medieval_Md_BlackKnight_42: 1516444948
+      Medieval_Md_BlackKnight_43: -464270974
+      Medieval_Md_BlackKnight_44: 186285992
+      Medieval_Md_BlackKnight_45: -1616505525
+      Medieval_Md_BlackKnight_46: -1279540175
+      Medieval_Md_BlackKnight_47: 239138980
+      Medieval_Md_BlackKnight_48: -1789980980
+      Medieval_Md_BlackKnight_49: 1830530066
+      Medieval_Md_BlackKnight_5: -595263028
+      Medieval_Md_BlackKnight_50: 2046158144
+      Medieval_Md_BlackKnight_6: -60136065
+      Medieval_Md_BlackKnight_7: 1622518072
+      Medieval_Md_BlackKnight_8: -1054415431
+      Medieval_Md_BlackKnight_9: -951186411
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
